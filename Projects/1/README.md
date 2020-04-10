@@ -4,6 +4,8 @@
 
 ### Leveraging Quantum MNIST to detect COVID-19.
 
+[![GeniSysAI Server](Media/Images/covid-19-ai-research-qtf.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow)
+
 # Introduction
 ![GeniSysAI Server](../../Media/Images/Quantum-MNIST.png)
 In this project we will leverage [Tensorflow Quantum](https://www.tensorflow.org/quantum "Tensorflow Quantum") [MNIST Classification](https://www.tensorflow.org/quantum/tutorials/mnist "MNIST Classification") code and modify the network to detect COVID-19.
