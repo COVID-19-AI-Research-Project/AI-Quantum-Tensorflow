@@ -30,7 +30,7 @@ Please follow the [Installation Guide](Documentation/Installation/Installation.m
 
 Below are the current projects:
 
-- [Leveraging Quantum MNIST to detect COVID-19](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Tensorflow-Quantum/tree/master/Projects/1/ "Leveraging Quantum MNIST to detect COVID-19")
+- [Leveraging Quantum MNIST to detect COVID-19](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Tensorflow-Quantum/tree/master/Projects/1 "Leveraging Quantum MNIST to detect COVID-19")
 
 &nbsp;
 
