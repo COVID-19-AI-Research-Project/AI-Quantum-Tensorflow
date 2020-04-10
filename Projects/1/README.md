@@ -4,7 +4,7 @@
 
 ### Leveraging Quantum MNIST to detect COVID-19.
 
-[![GeniSysAI Server](Media/Images/covid-19-ai-research-qtf.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow)
+[![GeniSysAI Server](../../Media/Images/covid-19-ai-research-qtf.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow)
 
 # Introduction
 ![GeniSysAI Server](../../Media/Images/Quantum-MNIST.png)
