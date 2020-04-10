@@ -13,7 +13,7 @@ Here you will find all of the required setup steps to get all required packages 
 
 Clone the [COVID19-AI-Quantum-Tensorflow](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow "COVID19-AI-Quantum-Tensorflow") repository from the [Peter Moss Acute Myeloid & Lymphoblastic COVID-19 AI Research Project](https://github.com/COVID-19-AI-Research-Project "Peter Moss COVID-19 AI Research Project") Github Organization.
 
-To clone the repository and install the COVID-19 GeniSysAI Medical Support Server, make sure you have Git installed. Now navigate to the location you want to clone the repository to on your device using terminal/commandline, and then use the following command.
+To clone the repository and install the COVID19 AI Quantum Tensorflow repository, make sure you have Git installed. Now navigate to the location you want to clone the repository to on your device using terminal/commandline, and then use the following command.
 
 The **-b "0.1.0"** parameter ensures you get the code from the latest development branch. Before using the below command please check our latest development branch in the button at the top of this page.
 
