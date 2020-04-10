@@ -4,15 +4,9 @@
 
 ### Leveraging Quantum MNIST to detect COVID-19.
 
-[![GeniSysAI Server](../../Media/Images/covid-19-ai-research-qtf.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow)
-
-[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-0.0.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow/tree/0.0.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow/tree/0.1.0)
-
 # Introduction
 ![GeniSysAI Server](../../Media/Images/Quantum-MNIST.png)
 In this project we will leverage [Tensorflow Quantum](https://www.tensorflow.org/quantum "Tensorflow Quantum") [MNIST Classification](https://www.tensorflow.org/quantum/tutorials/mnist "MNIST Classification") code and modify the network to detect COVID-19.
-
-&nbsp;
 
 ## Installation
 Please follow the [Installation Guide](../../Documentation/Installation/Installation.md "Installation Guide") to install COVID-19 AI Quantum Tensorflow.
