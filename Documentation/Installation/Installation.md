@@ -4,8 +4,15 @@
 
 [![GeniSysAI Server](../../Media/Images/covid-19-ai-research-qtf.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Quantum-Tensorflow)
 
-# Installation & Setup
+# Installation & setup
 Here you will find all of the required setup steps to get all required packages installed.
+
+## Quick install
+You can follow the installation steps manually on this page, or you can use the "quick install" scripts provided. To do a quick install, navigate to the project root and use the following command:
+
+```
+sh Scripts/Installation/Shell/Install.sh
+```
 
 &nbsp;
 
